@@ -10,10 +10,10 @@ In this notebook, we will explore the fine-tuning of a pre-trained TrOCR model o
 
 ### Data usage
 
-#### IAM Handwriting Database
+#### 1. IAM Handwriting Database
 The [IAM Handwriting Database](https://fki.tic.heia-fr.ch/databases/iam-handwriting-database) is a comprehensive collection of annotated images containing handwritten text. This dataset provides a rich source of diverse handwriting samples, making it ideal for training models to recognize and transcribe handwritten text in various contexts.
 
-#### CAPTCHA Dataset
+#### 2. CAPTCHA Dataset
 The [CAPTCHA dataset](https://www.kaggle.com/datasets/parsasam/captcha-dataset) is an extensive repository comprising over 113,000 colorful 5-character images. CAPTCHAs, which stand for "Completely Automated Public Turing tests to tell Computers and Humans Apart," are commonly used to differentiate between human users and automated bots on websites and online services. This dataset offers a valuable resource for training and evaluating models designed to tackle CAPTCHA recognition tasks.
 
 ### Model used
