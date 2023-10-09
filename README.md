@@ -1,4 +1,4 @@
-# CAPTCHA-verifier
+# CAPTCHA-Recognition
 Welcome to CAPTCHA Verifier repository! This open-source project is your one-stop solution for leveraging the power of deep learning and transformer-based models to tackle the challenging task of CAPTCHA recognition and verification. 
 
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/omgits0mar/CAPTCHA-verifier/blob/main/Fine-tune_Microsoft_TrOCR_on_Captcha_dataset.ipynb)
