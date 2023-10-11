@@ -26,6 +26,10 @@ This figure gives a good overview of the model (from the original paper):
 
 ![TrOCR](https://miro.medium.com/v2/resize:fit:786/format:webp/1*yCoAnJAjspTdltTkMYQ0cA.png)
 
+### Output results
+![results](https://github.com/omgits0mar/CAPTCHA-Recognition/assets/63152481/bd97f102-8944-4bc4-adf0-8abecf005197)
+
+
 ## References
 
 - TrOCR Paper: [Read Paper](https://arxiv.org/abs/2109.10282)
